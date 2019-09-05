@@ -1,0 +1,379 @@
+,max_value,min_value,mean_value,median_value,standard_deviation,total_value,max_std,max_spenders
+Acquisition of Office Supplies.,12089.0,1.0,352.72,111.0,835.64,564708.0,14.46675601933847,
+Acquisition or Location of Software for Postal Services,26100.0,0.0,374.47,163.0,1037.89,986345.0,25.147173592577246,
+Airline tickets,80000.0,0.0,586.93,453.0,798.9,467607438.0,100.13768932281887,
+"Consultancies, Researches and Technical Works.",90000.0,0.0,6427.23,5000.0,6207.41,154651904.0,14.498800626992578,
+Dissemination of the Parliamentary Activity.,215000.0,0.0,4682.62,1800.0,8337.88,342449332.0,25.785931195939497,
+Food and Meals,6205.0,0.0,67.07,47.0,104.71,14221449.0,59.258905548658205,
+Fuels and lubricants.,11374.0,0.0,233.5,100.0,625.24,148395739.0,18.191414496833215,
+"Hosting, except for the Parliamentary in the Federal District.",19670.0,1.0,322.01,192.0,488.45,16062093.0,40.270242604156,
+"Land, Sea or River Tickets",2066.0,1.0,91.08,65.0,101.3,358673.0,20.39486673247779,
+Leasing or Chartering of Boats,30050.0,2.0,2956.7,116.0,5404.86,561773.0,5.559810984928379,
+"Locomotion, Food and Lodging",28200.0,1.0,351.23,22.0,1251.34,5555835.0,22.53584157782857,
+Maintenance of Office,34546.0,0.0,901.33,331.0,1465.0,167828971.0,23.580887372013652,
+"Participation in Course, Lecture or Similar Event",18600.0,31.0,5597.74,6494.5,3416.27,380646.0,5.444534536204691,
+Postal Services,149754.0,0.0,132.64,36.0,878.9,44098582.0,170.38798498122654,
+Publication Subscription,30000.0,0.0,406.72,259.0,993.78,2075493.0,30.187767916440258,
+Rental or Chartering of Motor Vehicles,30000.0,2.0,4274.1,3727.0,2649.19,93094203.0,11.324216081141783,
+Renting of motor vehicles or chartering of boats,57333.0,0.0,663.24,12.0,1861.08,96707672.0,30.806306015861757,
+Renting or Chartering of Aircraft,184500.0,40.0,9644.46,7500.0,9022.21,15054997.0,20.44953509173473,
+Security Service Provided By Specialized Company.,17000.0,0.0,1574.61,242.0,2373.57,12004795.0,7.162207139456599,
+"Taxi Service, Toll & Parking",3850.0,0.0,33.11,10.0,103.56,3200886.0,37.176516029354964,
+Telephony,32493.0,0.0,398.52,226.0,530.77,160241471.0,61.21860692955518,
+0,,,,,,,,"2984823    Silas Câmara
+Name: deputy_name, dtype: object"
+1,,,,,,,,"1102433       Arnon Bezerra
+2432677               Aureo
+2793569    Carlos Zarattini
+Name: deputy_name, dtype: object"
+2,,,,,,,,"314043     Sabino Castelo Branco
+314044     Sabino Castelo Branco
+314045     Sabino Castelo Branco
+352084       Wellington Fagundes
+634434            Roberto Britto
+757927              Cleber Verde
+1790750       Wellington Roberto
+1790753       Wellington Roberto
+2114017             Cleber Verde
+2611965                   Macedo
+2884227    José Mendonça Bezerra
+Name: deputy_name, dtype: object"
+3,,,,,,,,"71301            Davi Alcolumbre
+458589          Evandro Milhomen
+463212             Fátima Pelaes
+650475              Sandro Mabel
+1174305            Eduardo Cunha
+1174306            Eduardo Cunha
+1361676      Pr. Marco Feliciano
+2517502    Félix Mendonça Júnior
+Name: deputy_name, dtype: object"
+4,,,,,,,,"1479100    Arnaldo Faria De Sá
+Name: deputy_name, dtype: object"
+5,,,,,,,,"221542      Marcelo Aguiar
+221545      Marcelo Aguiar
+221546      Marcelo Aguiar
+1275889    Liderança Do Pt
+1457251     Alexandre Roso
+1664581     Marcelo Aguiar
+1664582     Marcelo Aguiar
+1664583     Marcelo Aguiar
+1664584     Marcelo Aguiar
+1664585     Marcelo Aguiar
+1664586     Marcelo Aguiar
+1664588     Marcelo Aguiar
+1664591     Marcelo Aguiar
+1664592     Marcelo Aguiar
+2366662    Valadares Filho
+Name: deputy_name, dtype: object"
+6,,,,,,,,"489336    Henrique Eduardo Alves
+Name: deputy_name, dtype: object"
+7,,,,,,,,"934755     Marina Santanna
+1297777     Marcelo Aguiar
+Name: deputy_name, dtype: object"
+8,,,,,,,,"21150                   Andre Moura
+121441           Francisco Escórcio
+194326               Lázaro Botelho
+200998              Lincoln Portela
+236512     Maurício Quintella Lessa
+279279                 Pedro Chaves
+452865                  Eliene Lima
+565423                 Marçal Filho
+783621                Edinho Araújo
+852082            Janete Capiberibe
+881627               José Guimarães
+1015919               Ronaldo Zulke
+1479759              Arnaldo Jardim
+1641092           Leonardo Picciani
+1915808          Joaquim Passarinho
+2152927               Fábio Ramalho
+2192221                Ivan Valente
+2243855               Luciana Costa
+2436925               Betinho Gomes
+2472933          Dagoberto Nogueira
+2663140               Pastor Eurico
+Name: deputy_name, dtype: object"
+9,,,,,,,,"568487    Marcio Junqueira
+568488    Marcio Junqueira
+Name: deputy_name, dtype: object"
+10,,,,,,,,"2759062    Alberto Silva
+2759072    Alberto Silva
+Name: deputy_name, dtype: object"
+11,,,,,,,,"1129854    Carlos Gomes
+Name: deputy_name, dtype: object"
+12,,,,,,,,"40161          Assis Do Couto
+40162          Assis Do Couto
+486007        Guilherme Mussi
+486008        Guilherme Mussi
+486009        Guilherme Mussi
+486010        Guilherme Mussi
+486012        Guilherme Mussi
+486013        Guilherme Mussi
+486014        Guilherme Mussi
+566589         Marcelo Castro
+799701         Eliseu Padilha
+942160         Mendonça Prado
+942161         Mendonça Prado
+942162         Mendonça Prado
+1240817    João Marcelo Souza
+1255267         José Reinaldo
+1808628         Alex Canziani
+2354823        Sérgio Petecão
+2484309         Diego Andrade
+Name: deputy_name, dtype: object"
+13,,,,,,,,"633636    Ricardo Tripoli
+Name: deputy_name, dtype: object"
+14,,,,,,,,"455                Abelardo Lupion
+456                Abelardo Lupion
+18132                 Almeida Lima
+18133                 Almeida Lima
+18134                 Almeida Lima
+18136                 Almeida Lima
+18137                 Almeida Lima
+42219                        Aureo
+45189               Betinho Rosado
+53837               Carlos Brandão
+55704                Carlos Manato
+94406                  Edson Silva
+116360              Fernando Ferro
+116361              Fernando Ferro
+183090                José Priante
+223392               Marcio Bittar
+223395               Marcio Bittar
+224692            Marcio Junqueira
+224694            Marcio Junqueira
+224696            Marcio Junqueira
+224698            Marcio Junqueira
+225494              Márcio Marinho
+229156              Marcos Medrado
+292604                 Renan Filho
+292605                 Renan Filho
+314041       Sabino Castelo Branco
+316662                 Sandro Alex
+324684                Silvio Costa
+327803               Sueli Vidigal
+333145       Valdivino De Oliveira
+                    ...           
+2664607          Pauderney Avelino
+2679364        Pr. Marco Feliciano
+2681171      Professora Marcivania
+2684906              Remídio Monai
+2736489          Vicentinho Júnior
+2736490          Vicentinho Júnior
+2736491          Vicentinho Júnior
+2736492          Vicentinho Júnior
+2736493          Vicentinho Júnior
+2736494          Vicentinho Júnior
+2748204                 Zé Geraldo
+2748205                 Zé Geraldo
+2748206                 Zé Geraldo
+2748208                 Zé Geraldo
+2748209                 Zé Geraldo
+2775323          Arlindo Chinaglia
+2792532             Carlos Santana
+2792534             Carlos Santana
+2792535             Carlos Santana
+2792536             Carlos Santana
+2792537             Carlos Santana
+2805005    Davi Alves Silva Júnior
+2848909                    Giacobo
+2851246           Gonzaga Patriota
+2922507             Marcos Medrado
+2926441          Mário De Oliveira
+2954361               Paulo Rattes
+2966812                 Raul Henry
+2990463                     Tatico
+2990466                     Tatico
+Name: deputy_name, Length: 284, dtype: object"
+15,,,,,,,,"455                Abelardo Lupion
+456                Abelardo Lupion
+18132                 Almeida Lima
+18133                 Almeida Lima
+18134                 Almeida Lima
+18136                 Almeida Lima
+18137                 Almeida Lima
+42219                        Aureo
+45189               Betinho Rosado
+53837               Carlos Brandão
+55704                Carlos Manato
+94406                  Edson Silva
+116360              Fernando Ferro
+116361              Fernando Ferro
+183090                José Priante
+223392               Marcio Bittar
+223395               Marcio Bittar
+224692            Marcio Junqueira
+224694            Marcio Junqueira
+224696            Marcio Junqueira
+224698            Marcio Junqueira
+225494              Márcio Marinho
+229156              Marcos Medrado
+292604                 Renan Filho
+292605                 Renan Filho
+314041       Sabino Castelo Branco
+316662                 Sandro Alex
+324684                Silvio Costa
+327803               Sueli Vidigal
+333145       Valdivino De Oliveira
+                    ...           
+2664607          Pauderney Avelino
+2679364        Pr. Marco Feliciano
+2681171      Professora Marcivania
+2684906              Remídio Monai
+2736489          Vicentinho Júnior
+2736490          Vicentinho Júnior
+2736491          Vicentinho Júnior
+2736492          Vicentinho Júnior
+2736493          Vicentinho Júnior
+2736494          Vicentinho Júnior
+2748204                 Zé Geraldo
+2748205                 Zé Geraldo
+2748206                 Zé Geraldo
+2748208                 Zé Geraldo
+2748209                 Zé Geraldo
+2775323          Arlindo Chinaglia
+2792532             Carlos Santana
+2792534             Carlos Santana
+2792535             Carlos Santana
+2792536             Carlos Santana
+2792537             Carlos Santana
+2805005    Davi Alves Silva Júnior
+2848909                    Giacobo
+2851246           Gonzaga Patriota
+2922507             Marcos Medrado
+2926441          Mário De Oliveira
+2954361               Paulo Rattes
+2966812                 Raul Henry
+2990463                     Tatico
+2990466                     Tatico
+Name: deputy_name, Length: 284, dtype: object"
+16,,,,,,,,"2342214    Roberto Rocha
+Name: deputy_name, dtype: object"
+17,,,,,,,,"647496     Sabino Castelo Branco
+2426484      Arnaldo Faria De Sá
+Name: deputy_name, dtype: object"
+18,,,,,,,,"458              Abelardo Lupion
+34726             Arnaldo Jardim
+34727             Arnaldo Jardim
+34728             Arnaldo Jardim
+34729             Arnaldo Jardim
+34730             Arnaldo Jardim
+34731             Arnaldo Jardim
+34732             Arnaldo Jardim
+34733             Arnaldo Jardim
+34734             Arnaldo Jardim
+34735             Arnaldo Jardim
+34736             Arnaldo Jardim
+34737             Arnaldo Jardim
+34738             Arnaldo Jardim
+34739             Arnaldo Jardim
+41348           Augusto Carvalho
+41349           Augusto Carvalho
+41350           Augusto Carvalho
+42934          Benedita Da Silva
+46935                Beto Mansur
+46937                Beto Mansur
+46938                Beto Mansur
+46939                Beto Mansur
+46940                Beto Mansur
+46941                Beto Mansur
+62528                César Halum
+99573               Efraim Filho
+191066             Jutahy Junior
+202996            Luci Choinacki
+317208              Sandro Mabel
+                   ...          
+2707535              Sandro Alex
+2714387             Silas Câmara
+2722625                 Takayama
+2722626                 Takayama
+2722627                 Takayama
+2722628                 Takayama
+2722629                 Takayama
+2722630                 Takayama
+2722631                 Takayama
+2722632                 Takayama
+2722633                 Takayama
+2722634                 Takayama
+2722635                 Takayama
+2722636                 Takayama
+2728013          Valadares Filho
+2728015          Valadares Filho
+2728016          Valadares Filho
+2750085          Zeca Cavalcanti
+2750087          Zeca Cavalcanti
+2750089          Zeca Cavalcanti
+2750090          Zeca Cavalcanti
+2782585              Beto Mansur
+2782586              Beto Mansur
+2863567           Jair Bolsonaro
+2867878             João Almeida
+2868685              João Bittar
+2904207             Luiz Bassuma
+2954356             Paulo Rattes
+2979962    Sabino Castelo Branco
+2984815             Silas Câmara
+Name: deputy_name, Length: 187, dtype: object"
+19,,,,,,,,"21103                           Andre Moura
+38018                  Arthur Oliveira Maia
+56151                        Carlos Roberto
+75614                         Diego Andrade
+91496                            Edio Lopes
+101688                     Eli Corrêa Filho
+101689                     Eli Corrêa Filho
+121818                   Francisco Floriano
+132563                       Gladson Cameli
+153420                    Janete Capiberibe
+168706                     João Paulo Cunha
+168721                     João Paulo Cunha
+168722                     João Paulo Cunha
+168723                     João Paulo Cunha
+168724                     João Paulo Cunha
+168725                     João Paulo Cunha
+168726                     João Paulo Cunha
+285629                            Policarpo
+400249     Bernardo Santana De Vasconcellos
+400250     Bernardo Santana De Vasconcellos
+400251     Bernardo Santana De Vasconcellos
+400252     Bernardo Santana De Vasconcellos
+400253     Bernardo Santana De Vasconcellos
+455858                    Erivelton Santana
+493883                        Iara Bernardi
+513440                     João Paulo Cunha
+543767                            Liliam Sá
+611087                         Paulo Freire
+611088                         Paulo Freire
+611089                         Paulo Freire
+                         ...               
+2823098                     Eduardo Sciarra
+2825016                         Eliene Lima
+2832711                       Fátima Pelaes
+2832713                       Fátima Pelaes
+2832714                       Fátima Pelaes
+2842382                 Francisco Rodrigues
+2871476                      João Magalhães
+2871477                      João Magalhães
+2871478                      João Magalhães
+2871479                      João Magalhães
+2871480                      João Magalhães
+2871481                      João Magalhães
+2890753                    Jurandy Loureiro
+2940764                       Nilson Mourao
+2964559                    Professor Setimo
+2966022             Raimundo Gomes De Matos
+2966024             Raimundo Gomes De Matos
+2980189                       Sandes Júnior
+2980190                       Sandes Júnior
+2980368                       Sandes Júnior
+2984082                     Severiano Alves
+2987089                     Solange Almeida
+2987090                     Solange Almeida
+2987091                     Solange Almeida
+2987233                     Solange Almeida
+2987235                     Solange Almeida
+2987237                     Solange Almeida
+2987239                     Solange Almeida
+2987241                     Solange Almeida
+3005607                       Waldemir Moka
+Name: deputy_name, Length: 223, dtype: object"
+20,,,,,,,,"1676900    Maurício Quintella Lessa
+Name: deputy_name, dtype: object"
